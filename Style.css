@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Roboto+Mono:wght@220&display=swap');
+
+:root{
+    --cor-de-fundo: #000000;
+    --cor-primaria: #950101;
+    --cor-secundaria: #3D0000;
+    --cor-do-texto: #ffffff;
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-do-texto);
+    font-family: "Exo 2", sans-serif;
+    
+}
+header{
+    
+}
