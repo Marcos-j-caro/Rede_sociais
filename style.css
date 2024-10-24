@@ -48,12 +48,12 @@ nav a:hover{
 }
 footer{
     background-color: var(--cor-primaria);
+    display: flex;
+    color: var(--cor-de-fundo);
+    align-items: center;
+    justify-content: center;
     font-size: 1rem;
-    text-align: center;
     margin-top: 20px;
     height: 3rem;
     width: 100%
-}
-footer p{
-    margin-top: 15px;
 }
